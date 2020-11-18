@@ -1,0 +1,10 @@
+C:\Users\buett\source\repos\Webhook Spammer\Webhook Spammer\bin\Debug\Webhook Spammer.exe.config
+C:\Users\buett\source\repos\Webhook Spammer\Webhook Spammer\bin\Debug\Webhook Spammer.exe
+C:\Users\buett\source\repos\Webhook Spammer\Webhook Spammer\bin\Debug\Webhook Spammer.pdb
+C:\Users\buett\source\repos\Webhook Spammer\Webhook Spammer\obj\Debug\Webhook Spammer.csprojAssemblyReference.cache
+C:\Users\buett\source\repos\Webhook Spammer\Webhook Spammer\obj\Debug\Webhook_Spammer.Form1.resources
+C:\Users\buett\source\repos\Webhook Spammer\Webhook Spammer\obj\Debug\Webhook_Spammer.Properties.Resources.resources
+C:\Users\buett\source\repos\Webhook Spammer\Webhook Spammer\obj\Debug\Webhook Spammer.csproj.GenerateResource.cache
+C:\Users\buett\source\repos\Webhook Spammer\Webhook Spammer\obj\Debug\Webhook Spammer.csproj.CoreCompileInputs.cache
+C:\Users\buett\source\repos\Webhook Spammer\Webhook Spammer\obj\Debug\Webhook Spammer.exe
+C:\Users\buett\source\repos\Webhook Spammer\Webhook Spammer\obj\Debug\Webhook Spammer.pdb
